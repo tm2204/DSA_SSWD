@@ -1,1 +1,1 @@
-readme2.txt file
+readme2.txt text file
